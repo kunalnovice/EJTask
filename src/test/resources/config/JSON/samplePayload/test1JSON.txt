@@ -1,0 +1,14 @@
+{
+   "basket":{
+      "items":[
+         {
+            "name":"Dog food",
+            "price":1.49
+         },
+         {
+            "name":"Cat food",
+            "price":1.29
+         }
+      ]
+   }
+}
