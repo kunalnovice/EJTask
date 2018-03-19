@@ -26,5 +26,12 @@ Afterwards based on response , JSON will be made to move from SourceJSON to eith
 
 It helps in understanding the state of execution at the time of analysis, if any investigation is required.
 
+
+
+properties files are used to abstract test data outside the test
+        JSONLocator to verify JSON path within a response.
+        TestData.properties to keep any test. Alternatively XLS can be used to keep test data
+        TestEnvironment keeps some configurable parameters
+
 Improvement: More Logging in info.log can be activated, Refactoring to make code more readable and extensible.
 
